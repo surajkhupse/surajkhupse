@@ -43,4 +43,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com ▋
+</p>
+
+<h3 align="left">Contributions:</h3>
+<p align="left">
+  <a href="https://github.com/surajkhupse">
+    <img src="https://github-readme-stats.vercel.app/api?username=surajkhupse&show_icons=true&hide_border=true" alt="surajkhupse" />
+  </a>
+</p>
