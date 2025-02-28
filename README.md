@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **surajkhupse22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Nu9-dedRD7vp9ZRjIDL8ltfDGVyjD2LfT23WdeS6h-E/edit](https://docs.google.com/document/d/1Nu9-dedRD7vp9ZRjIDL8ltfDGVyjD2LfT23WdeS6h-E/edit)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
