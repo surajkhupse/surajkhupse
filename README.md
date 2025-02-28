@@ -43,16 +43,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkhupse&show_icons=true&locale=en&layout=compact" alt="surajkhupse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajkhupse&show_icons=true&locale=en" alt="surajkhupse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajkhupse&" alt="surajkhupse" /></p>
+  <a href="https://getbootstrap.com ▋
